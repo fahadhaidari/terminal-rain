@@ -2,4 +2,4 @@
 A simple Node.js code to make it rain in the Terminal window.
 
 
-## run: `node rain.js`
+### run: ```node rain.js```
